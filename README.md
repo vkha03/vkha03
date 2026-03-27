@@ -44,8 +44,3 @@ An intelligent backend system engineered to securely bridge natural language pro
 * **System Design & Deployment:** Deepening practical knowledge in **Docker, AWS, and Kubernetes** for modern application deployment.
 * **Algorithmic Optimization:** Continuously sharpening core data structure and algorithm problem-solving skills on **LeetCode**.
 * **Technical Communication:** Enhancing **English proficiency** to deeply analyze advanced system documentation and architectural patterns.
-
----
-📫 **Let's Connect:**
-* Architecture & Portfolio Details: **[LINK_TO_KHADEV]**
-* LinkedIn: **[LINK_TO_YOUR_LINKEDIN]**
