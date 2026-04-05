@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Information+Systems+Student;Passionate+about+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 
   <p><i>Building reliable backend foundations, RESTful APIs, and scalable databases.</i></p>
