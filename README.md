@@ -13,8 +13,6 @@
   </p>
 </div>
 
-```
-
 ---
 
 ## ⚙️ Core Technical Proficiency
