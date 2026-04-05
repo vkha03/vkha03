@@ -41,10 +41,3 @@ A robust backend service engineered to safely translate natural language into st
 - **Infrastructure:** Fully containerized using `Docker` to ensure parity across environments.
 
 <p><a href="[LINK_TO_SMARTQUERY_REPO]"><strong>🌐 View System Source Code</strong></a></p>
-
----
-
-## 📈 Current Focus & Roadmap
-- 📚 **Infrastructure:** Deep diving into Docker, AWS, and Linux deployment workflows.
-- 🎯 **Algorithms:** Continuously solving data structure problems on LeetCode.
-- 🗣️ **Communication:** Honing technical English to consume advanced engineering documentation.
