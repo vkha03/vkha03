@@ -13,25 +13,6 @@
   </p>
 </div>
 
----
-
-## 🧠 System Architecture Mindset
-
-```mermaid
-graph TD;
-    Client([Client / Frontend]) -->|HTTPS / REST| API_GW[API Gateway / Nginx]
-    API_GW -->|Routing| AppServer[Node.js / Express Backend]
-    AppServer -->|Cache Hit| Redis[(Redis Cache)]
-    AppServer -->|Query| DB[(MySQL / PostgreSQL)]
-    AppServer -->|External Integrations| ExtAPI[LLM / External APIs]
-    
-    classDef primary fill:#0072ff,stroke:#000,stroke-width:2px,color:#fff;
-    classDef database fill:#4EA94B,stroke:#000,stroke-width:2px,color:#fff;
-    classDef cache fill:#DC382D,stroke:#000,stroke-width:2px,color:#fff;
-    
-    class AppServer primary;
-    class DB database;
-    class Redis cache;
 ```
 
 ---
