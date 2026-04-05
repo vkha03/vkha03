@@ -13,52 +13,54 @@
 
 ---
 
-## ⚙️ Tech Stack & Infrastructure
+## ⚙️ Core Technical Proficiency (Tech Stack theo hình ảnh)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,go" alt="Languages" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,postgres" alt="Frameworks and Databases" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,vscode,linux" alt="DevOps and Tools" />
-  </a>
-</div>
+Bố cục được chia thành 4 cột chuyên nghiệp để người xem nắm bắt nhanh chóng toàn bộ hệ sinh thái công nghệ anh sử dụng.
 
----
-
-## 🚀 Featured Systems
-
-<table bordercolor="#30363d">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 SmartQuery</h3>
-      <p><b>AI-Powered Database Infrastructure</b></p>
-      <p>An intelligent backend system engineered to securely bridge NLP with structured database operations. Designed with a focus on decoupling components.</p>
-      <ul>
-        <li><b>Architecture:</b> Decoupled AI module to prevent thread blocking.</li>
-        <li><b>Optimization:</b> Connection pooling for complex AI-generated queries.</li>
-        <li><b>DevOps:</b> Containerized environments using Docker.</li>
-      </ul>
-      <a href="[LINK_TO_SMARTQUERY_REPO]">🌐 View Source Code</a>
+    <td valign="top" width="25%">
+      <h3>• Backend & DB</h3>
+      <p><i>Application architecture, business logic & database optimization.</i></p>
+      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis" alt="Backend & DB Icons" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🏋️ GymConnect</h3>
-      <p><b>Gym Management Platform</b></p>
-      <p>A robust relational system managing user subscriptions, scheduling, and facility operations using strict MVC principles.</p>
-      <ul>
-        <li><b>Core:</b> RESTful API architecture with Node.js and Express.</li>
-        <li><b>Database:</b> Deep relational database design using MySQL.</li>
-        <li><b>Scalability:</b> Structured for seamless microservices migration.</li>
-      </ul>
-      <a href="[LINK_TO_GYMCONNECT_REPO]">🌐 View Source Code</a>
+    <td valign="top" width="25%">
+      <h3>• Frontend Support</h3>
+      <p><i>Component logic, state management & API integration.</i></p>
+      <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css" alt="Frontend Support Icons" />
+    </td>
+    <td valign="top" width="25%">
+      <h3>• DevOps & Cloud</h3>
+      <p><i>App containerization, version control & PaaS deployment.</i></p>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,railway" alt="DevOps & Cloud Icons" />
+    </td>
+    <td valign="top" width="25%">
+      <h3>• Tools & AI</h3>
+      <p><i>API testing, documentation & LLM integration (RAG).</i></p>
+      <img src="https://skillicons.dev/icons?i=vitest,postman,swagger,ai,langchain" alt="Tools & AI Icons" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Project
+
+### 🧠 SmartQuery - AI-Powered Database Infrastructure
+An intelligent backend system engineered to securely bridge natural language processing with structured database operations. Designed with a focus on decoupling components.
+
+**System-Level Highlights:**
+- **Decoupled Architecture:** Separated the AI processing module from core database transactions.
+- **Query Optimization:** Implemented efficient connection pooling in MySQL.
+- **Scalable API Design:** Developed RESTful endpoints using Node.js structured with MVC principles.
+
+<p>
+  <a href="[LINK_TO_SMARTQUERY_REPO]"><strong>🌐 View System Source Code</strong></a>
+</p>
+
+---
+
+## 📊 Developer Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -67,8 +69,8 @@
 
 ---
 
-## 📈 Current Technical Focus
+## 🐍 My Github Contribution Snake Game
 
-- 🐳 **System Design & Deployment:** Deepening practical knowledge in **Docker, AWS, and Kubernetes** for modern application deployment.
-- ⚡ **Algorithmic Optimization:** Continuously sharpening core data structure and algorithm problem-solving skills on **LeetCode**.
-- 📖 **Technical Communication:** Enhancing **English proficiency** to deeply analyze advanced system documentation and architectural patterns.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Github contribution snake animation" />
+</div>
