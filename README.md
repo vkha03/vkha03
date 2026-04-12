@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 
-  <p><i>Building reliable backend foundations, RESTful APIs, and scalable databases.</i></p>
+  <p><i>Building reliable backend foundations, RESTful APIs, and scalable systems.</i></p>
 
   <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -27,7 +27,7 @@
   <br><br>
 
   <h3>☁️ DevOps, Cloud & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vitest,postman,vscode,linux" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vitest,postman,linux" alt="DevOps and Tools" />
 </div>
 
 ---
