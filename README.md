@@ -8,6 +8,7 @@
   <p><i>Building reliable backend foundations, RESTful APIs, and scalable systems.</i></p>
 
   <p>
+    <a href="https://khadev-fawn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="[LINK_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
@@ -19,21 +20,22 @@
 
 <div align="center">
   <h3>💻 Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis" alt="Backend" />
-  <br><br>
-
-  <h3>🌐 Frontend Support</h3>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis,mysql" alt="Backend" />
   <br><br>
 
   <h3>☁️ DevOps, Cloud & Tools</h3>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vitest,postman,linux" alt="DevOps and Tools" />
+  <br><br>
+
+  <h3>🌐 Frontend Support</h3>
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css" alt="Frontend" />
 </div>
 
 ---
 
+## 📈 GitHub Activity
+
 <div align="center">
-  <h3>🐍 Lịch sử cày cuốc</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkha03/vkha03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkha03/vkha03/output/github-contribution-grid-snake.svg">
@@ -41,12 +43,17 @@
   </picture>
 </div>
 
+---
+
 ## 🚀 Featured Infrastructure
 
 ### 🛠️ SmartQuery - AI-Powered Database Assistant
 A robust backend service engineered to safely translate natural language into structured SQL queries.
+
 - **Architecture:** Strict separation of text-processing logic from direct database operations.
 - **Database Management:** Optimized connection pooling and relational schema design with `MySQL`.
 - **Infrastructure:** Fully containerized using `Docker` to ensure parity across environments.
 
-<p><a href="[LINK_TO_SMARTQUERY_REPO]"><strong>🌐 View System Source Code</strong></a></p>
+<p>
+  <a href="[LINK_TO_SMARTQUERY_REPO]"><strong>🌐 View System Source Code</strong></a>
+</p>
